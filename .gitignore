@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.pyd
+*.so
+
+# Visual Studio
+.vscode/
+*.vcxproj*
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Allow GUI script
+!sudoku_gui.py
